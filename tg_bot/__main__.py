@@ -136,7 +136,7 @@ def start(bot: Bot, update: Update, args: List[str]):
 
                 parse_mode=ParseMode.MARKDOWN, reply_markup=InlineKeyboardMarkup(
                     [[InlineKeyboardButton(text="🎉 Aᴅᴅ Mᴇ Tᴏ Gʀᴏᴜᴘ", url="t.me/{}?startgroup=true".format(bot.username))],
-                     [InlineKeyboardButton(text="🔔 Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ", url="https://t.me/Mo_Tech_YT"),InlineKeyboardButton(text="🛠 Hᴇʟᴘ", url="https://t.me/{}?start=help".format(bot.username)) ]]))
+                     [InlineKeyboardButton(text="🔔 Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ", url="https://t.me/Virab_bot_update"),InlineKeyboardButton(text="🛠 Hᴇʟᴘ", url="https://t.me/{}?start=help".format(bot.username)) ]]))
 
     else:
         update.effective_message.reply_text("ചത്തിട്ടില്ലാ...")
