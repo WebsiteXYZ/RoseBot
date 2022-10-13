@@ -19,7 +19,7 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
 
-Hey there! My name is Rose - I'm here to help you manage your groups! Hit /help to find out more about how to use me to my full potential.
+Hey there! My name is Rose ☑️⭐️ - I'm here to help you manage your groups! Hit /help to find out more about how to use me to my full potential.
 
 """
 
